@@ -107,6 +107,10 @@ PC用のスタイル
     display: block;
   }
 
+  #nav-sp>a:link {
+    color: #ffffff;
+  }
+
   #nav-sp>a:visited {
     color: #ffffff;
   }
